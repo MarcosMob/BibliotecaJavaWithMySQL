@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Controle {
     private static final String DATABASE_URL = "jdbc:mysql://localhost/bibliotecajava";
     private static final String DATABASE_USER = "root";
-    private static final String DATABASE_PASSWORD = "12345678";
+    private static final String DATABASE_PASSWORD = "password";
 
     public static String getDATABASE_URL() {
         return DATABASE_URL;

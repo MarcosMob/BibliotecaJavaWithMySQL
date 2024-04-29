@@ -1,0 +1,9 @@
+Para o funcionamento deste programa, na funcao de conexao, voce precisara informar o seu usuario e senha
+do MySQL e nome do banco de dados (path), para assim ele conseguir fazer a conexao, alem disso precisara
+do mysql connector adicionado as bibliotecas para realizar as conexoes e dar import java.sql.*
+
+Com tudo isso pronto voce precisara tambem criar o DataBase no MySQL, o codigo ficara disponivel para criacao, porem,
+tera que criar algumas coisas manualmente pois nao esta completo !(Perdi algumas linhas de codigo, mas nao é nada complexo).
+Contudo, esse é o codigo.
+
+Ass: Marcos Vinicius de Almeida @DevMarcosA --> twitter
